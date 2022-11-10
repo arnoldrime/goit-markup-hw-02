@@ -5,9 +5,10 @@ body {
   line-height: 24px;
   letter-spacing: 0.03em;
   text-align: left;
+  color: #212121;
 }
 
-#Logoweb {
+#logo-web {
   font-family: "Raleway", sans-serif;
   font-size: 26px;
   font-weight: 700;
@@ -17,7 +18,7 @@ body {
   color: #2196f3;
 }
 
-.Boton {
+.boton {
   width: 1600px;
   height: 600px;
   left: 0px;
@@ -64,7 +65,7 @@ h1 {
   cursor: pointer;
 }
 
-.primerseccion {
+.primer-seccion {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -120,4 +121,84 @@ footer {
   letter-spacing: 0.02em;
   text-align: left;
   color: #757575;
+}
+
+.abajo {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+
+h4 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  color: #212121;
+}
+
+.img-porta {
+  height: 294px;
+  width: 370px;
+}
+
+.hover {
+  transition: background-color 0.5s;
+}
+
+.hover:hover {
+  background: #2196f3;
+}
+
+.header-porta {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.catalogo {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #757575;
+}
+
+button {
+  cursor: pointer;
+}
+
+.botones {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.segunda-seccion {
+  display: inline;
+  height: 323.70465087890625px;
+  width: 373.1623840332031px;
 }
